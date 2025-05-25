@@ -17,7 +17,7 @@ asunto = "Análisis acciones últimos 6 meses"
 
 # Hacer un f string para insertar las variables
 mensaje = f"""
-Hola K
+Hola 
 
 Acá te envío el análisis de los últimos 6 meses de : {ticker}
 
